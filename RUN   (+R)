@@ -4,3 +4,4 @@ sysdm.cpl  - domain now
 \\fileserver - sobelerin fayllari
 \\pc-name\c$ -  pc daxili fayllar
 diskmgmt.msc - diskin bolunmesi ve s.
+mstsc - Rdp
