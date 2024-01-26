@@ -7,7 +7,3 @@ diskmgmt.msc - diskin bolunmesi ve s.
 mstsc - Rdp
 ncpa.cpl  - network connections
 shutdown -i    - rdp (restart- shutdown) PC
-nslookup - dns adres
-ping (ip adres; name) (probel) -t   - kesilmezlik internet var.
-tracert ip aders - elaqe cixislari
-systeminfo  -  computer informasiyasi
