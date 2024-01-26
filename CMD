@@ -1,3 +1,7 @@
+nslookup - dns adres
+ping (ip adres; name) (probel) -t   - kesilmezlik internet var.
+tracert ip aders - elaqe cixislari
+systeminfo  -  computer informasiyasi
 ping PC name  ( ip)  - komputerlerle elagenin yoxlanmasi
 ipconfig  - oz ip ni oyren
 ipconfig /all  - umumi ip melumat
