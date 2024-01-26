@@ -1,0 +1,5 @@
+ping PC name  ( ip)  - komputerlerle elagenin yoxlanmasi
+ipconfig  - oz ip ni oyren
+ipconfig /all  - umumi ip melumat
+ipconfig /flushdns - dns temizlemek
+shutdown /i  -  komputeri sondurmek.restart etmek
